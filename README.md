@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SQLAlchemy Homework - Surfs Up!
 
 ### Before You Begin
@@ -188,3 +189,7 @@ Now that you have completed your initial analysis, design a Flask API based on t
 ### Copyright
 
 Trilogy Education Services © 2020. All Rights Reserved.
+=======
+# sqlalchemy-challenge
+GitHub for SQLalchemy homework
+>>>>>>> 3be674dbed1218ea252b91387f875cc099ba30a4
